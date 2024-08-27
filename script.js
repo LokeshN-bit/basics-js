@@ -110,4 +110,12 @@ console.log(val);
 
 var a=25;
 console.log(a);
+ 
+function name(mark) {
+
+ console.log(25);
+ 
+    
+}
+name()
 
