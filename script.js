@@ -108,3 +108,6 @@ const splice=val.splice(1,3)
 console.log(splice);
 console.log(val);
 
+var a=25;
+console.log(a);
+
